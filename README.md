@@ -12,7 +12,8 @@
     <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/gscodebrasil/devicons/main/icons/css3/css3-original.svg">
     <img align="center" alt="Guilherme-VB.Net" height="30" width="40" src="https://raw.githubusercontent.com/gscodebrasil/devicons/main/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="Guilherme-VB.Net" height="30" width="40" src="https://raw.githubusercontent.com/gscodebrasil/devicons/main/icons/microsoftsqlserver/sql-server.svg"> 
-    <img align="right" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="https://github.com/gscodebrasil/devicons/blob/main/icons/github/mygitcat.png">
+    <img align="center" alt="Guilherme-VB.Net" height="30" width="40" src="https://raw.githubusercontent.com/gscodebrasil/devicons/main/icons/git/git-plain.svg">   
+    <img align="right" alt="Guilherme-pic" height="150" style="border-radius:50px;" src="https://github.com/gscodebrasil/devicons/blob/main/icons/github/mygitcat.png">     
 </div>
   
   ##  
