@@ -18,7 +18,8 @@
   
   ##  
 
-<div>    
+<div>
+  <a href="https://www.facebook.com/profile.php?id=100004230251012" rel="noreferrer" target="_blank"> has the same behavior as <a href="https://www.facebook.com/profile.php?id=100004230251012" rel="noreferrer noopener" target="_blank">
   <a href="https://www.facebook.com/profile.php?id=100004230251012" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" rel="noreferrer"></a>
   <a href="https://www.instagram.com/xguioliveirax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
